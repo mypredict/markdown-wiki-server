@@ -1,0 +1,21 @@
+{
+  "name": "wiki-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.4.17",
+    "node-fetch": "^2.3.0"
+  }
+}
